@@ -1,0 +1,9 @@
+numpy
+flask
+pytest
+bcrypt
+pycryptodome
+requests
+socket
+logging
+binascii
