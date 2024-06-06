@@ -1,0 +1,9 @@
+2024-06-05 22:35:48,299 - INFO - Server started on localhost:65092
+2024-06-05 22:36:17,634 - INFO - Shutting down the program
+2024-06-05 22:36:37,499 - INFO - Server started on localhost:65092
+2024-06-05 22:36:47,710 - INFO - Processed problem fibonacci, range: 40, min:0, max: 100
+2024-06-05 22:36:56,762 - INFO - Processed problem fibonacci, range: 40, min:0, max: 100
+2024-06-05 22:37:27,908 - ERROR - Error processing data: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /numbers (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002670A279400>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2024-06-05 22:37:36,875 - INFO - Shutting down the program
+2024-06-05 22:37:45,824 - INFO - Server started on localhost:65092
+2024-06-05 22:37:57,038 - INFO - Processed problem fibonacci, range: 40, min:0, max: 100

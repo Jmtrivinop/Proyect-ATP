@@ -57,7 +57,7 @@ def receive_public_key():
    
     client_public_key = data['public_key']
     
-
+    
     return jsonify({"public_key": encryption_handler.public_key.export_key().decode()})
 
 
