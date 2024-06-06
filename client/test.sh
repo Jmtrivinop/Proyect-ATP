@@ -6,9 +6,9 @@ NC='\033[0m' # No Color
 Assigning default file names
 command="./" #If the code is not compiled, use here the interpreter
 executable="client"
-test_flag=" problem --test -o file"
+test_flag=" problem --test -o test"
 expected_output="expected_output.txt"
-generated_output="file.txt"
+generated_output="test.txt"
 diff_output="diff_output.txt"
 
 if [ $# -eq 1 ]; then
